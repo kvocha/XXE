@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DOCTYPE foo [
+<!ELEMENT foo ANY >
+<ENTITY xxe SYSTEM "file:///etc/hostname" >
+]>
+<rss version="2.0">
+<channel>
+<title>&foo;</title>
+<link>https://news.yandex.ru/auto.html?from=rss</link>
+<description>Первая в России служба автоматической обработки и систематизации новостей. Сообщения ведущих российских и мировых СМИ. Обновление в режиме реального времени 24 часа в сутки.</description>
+<image>
+<url>https://company.yandex.ru/i/50x23.gif</url>
+<link>https://news.yandex.ru/auto.html?from=rss</link>
+<title>Яндекс.Новости: Авто</title>
+</image>
+<lastBuildDate>02 Dec 2019 16:30:11 +0000</lastBuildDate>
+<item>
+<title>Российский Skoda Karoq получит восьмиступенчатый «автомат»</title>
+<link>https://yandex.ru/news/story/Rossijskij_Skoda_Karoq_poluchit_vosmistupenchatyj_avtomat--d1efe5ab158c05860da74665bd7faccc?lang=ru&amp;from=rss&amp;stid=3t1Y-LDLx1XpVyiVISXN</link>
+<guid>https://yandex.ru/news/story/Rossijskij_Skoda_Karoq_poluchit_vosmistupenchatyj_avtomat--d1efe5ab158c05860da74665bd7faccc?lang=ru&amp;from=rss&amp;stid=3t1Y-LDLx1XpVyiVISXN</guid>
+<description>Восьмиступенчатый «автомат» на Skoda Karoq российской сборки предложат в паре с атмосферным 1,6-литровым двигателем мощностью 110 лошадиных сил и передним приводом.</description>
+<pubDate>02 Dec 2019 10:01:33 +0000</pubDate>
+</item>
+<item>
+<title>«АвтоВАЗ» отзовет бракованные Lada Vesta</title>
+<link>https://yandex.ru/news/story/AvtoVAZ_otzovet_brakovannye_Lada_Vesta--afeae265656e4933b94c5b3f4d22888c?lang=ru&amp;from=rss&amp;stid=rB3R_-Q0F9HPQ4Xdoshl</link>
+<guid>https://yandex.ru/news/story/AvtoVAZ_otzovet_brakovannye_Lada_Vesta--afeae265656e4933b94c5b3f4d22888c?lang=ru&amp;from=rss&amp;stid=rB3R_-Q0F9HPQ4Xdoshl</guid>
+<description>Российский автопроизводитель «АвтоВАЗ» разослал в дилерские центры предписание, в котором говорится о необходимости провести замену буферов крышки багажника одной из партии автомобилей Lada Vesta в комплектации Exclusive. Об этом в понедельник, 2 декабря, сообщает «Лада Онлайн».</description>
+<pubDate>02 Dec 2019 08:07:14 +0000</pubDate>
+</item>
+<item>
+<title>Geely привезет новый кроссовер Geely Coolray в РФ</title>
+<link>https://yandex.ru/news/story/Geely_privezet_novyj_krossover_Geely_Coolray_v_RF--b8c94f7137d36a0c5fd0a797b16e53e7?lang=ru&amp;from=rss&amp;stid=XLH7oJq21jNm_d4W9nii</link>
+<guid>https://yandex.ru/news/story/Geely_privezet_novyj_krossover_Geely_Coolray_v_RF--b8c94f7137d36a0c5fd0a797b16e53e7?lang=ru&amp;from=rss&amp;stid=XLH7oJq21jNm_d4W9nii</guid>
+<description>Новый компактный кроссовер Geely SX11, известный в Китае как Geely Binyue, приедет в Россию под новым названием – Coolray. Первые поставки новой модели, которая уже получила ОТТС (Одобрение типа транспортного средства), начнутся в первом полугодии 2020 года.</description>
+<pubDate>02 Dec 2019 08:19:48 +0000</pubDate>
+</item>
+<item>
+<title>Первый кроссовер Genesis сфотографировали без камуфляжа</title>
+<link>https://yandex.ru/news/story/Pervyj_krossover_Genesis_sfotografirovali_bez_kamuflyazha--4985f25f687ed05d2fbd4e3cd24bbb62?lang=ru&amp;from=rss&amp;stid=bu0A_ukk1mnN8S__6_2O</link>
+<guid>https://yandex.ru/news/story/Pervyj_krossover_Genesis_sfotografirovali_bez_kamuflyazha--4985f25f687ed05d2fbd4e3cd24bbb62?lang=ru&amp;from=rss&amp;stid=bu0A_ukk1mnN8S__6_2O</guid>
+<description>В распоряжении TheKoreanCarBlog оказались фотографии первого серийного кроссовера Genesis, который был запечатлен без камуфляжа. По неофициальным данным, выпуск нового автомобиля роскошного бренда Hyundai уже стартовал, однако его публичная премьера состоится позже.</description>
+<pubDate>02 Dec 2019 12:08:30 +0000</pubDate>
+</item>
+<item>
+<title>Назван топ-5 самых дешёвых кроссоверов в России к концу 2019 года</title>
+<link>https://yandex.ru/news/story/Nazvan_top-5_samykh_deshyovykh_krossoverov_v_Rossii_k_koncu_2019_goda--8ea67929f883b7e8a57df81e05935988?lang=ru&amp;from=rss&amp;stid=k14GVAzZ1H_jzADA6jnN</link>
+<guid>https://yandex.ru/news/story/Nazvan_top-5_samykh_deshyovykh_krossoverov_v_Rossii_k_koncu_2019_goda--8ea67929f883b7e8a57df81e05935988?lang=ru&amp;from=rss&amp;stid=k14GVAzZ1H_jzADA6jnN</guid>
+<description>Аналитики портала CarsWeek провели исследование и назвали &amp;quot;пятерку&amp;quot; самых дешёвых SUV, представленных на российском рынке, в декабре нынешнего года. Лидирующее место, как и прежде, достается отечественной LADA 4x4, стоимость которой в трехдверном исполнении стартует с отметки 523 900 рублей.</description>
+<pubDate>02 Dec 2019 05:26:19 +0000</pubDate>
+</item>
+<item>
+<title>В сети появились изображения новой Skoda Rapid для России</title>
+<link>https://yandex.ru/news/story/V_seti_poyavilis_izobrazheniya_novoj_Skoda_Rapid_dlya_Rossii--9d9d1197933e5a4b17e9b22ab9defc4c?lang=ru&amp;from=rss&amp;stid=T816nWJWsZ3-UJWnEMud</link>
+<guid>https://yandex.ru/news/story/V_seti_poyavilis_izobrazheniya_novoj_Skoda_Rapid_dlya_Rossii--9d9d1197933e5a4b17e9b22ab9defc4c?lang=ru&amp;from=rss&amp;stid=T816nWJWsZ3-UJWnEMud</guid>
+<description>В сети появились впервые фото лифтбека Skoda Rapid второго поколения.</description>
+<pubDate>29 Nov 2019 18:20:09 +0000</pubDate>
+</item>
+<item>
+<title>Mazda отзывает более почти 36 тысяч кроссоверов CX-7</title>
+<link>https://yandex.ru/news/story/Mazda_otzyvaet_bolee_pochti_36_tysyach_krossoverov_CX-7--951844038e7fcf84947c3eed4d43ebad?lang=ru&amp;from=rss&amp;stid=xOb10ya8460t6UrWr8zO</link>
+<guid>https://yandex.ru/news/story/Mazda_otzyvaet_bolee_pochti_36_tysyach_krossoverov_CX-7--951844038e7fcf84947c3eed4d43ebad?lang=ru&amp;from=rss&amp;stid=xOb10ya8460t6UrWr8zO</guid>
+<description>В указанных автомобилях обнаружили помутнение рассеивателя заднего фонаря. Японская компания Mazda North American Operations отзывает 35 801 автомобиля Mazda CX-7, изготовленных в период с 1 марта 2007 года по 29 апреля 2013 года.</description>
+<pubDate>29 Nov 2019 22:16:55 +0000</pubDate>
+</item>
+<item>
+<title>Во второй половине ноября 3 бренда изменили цены на автомобили</title>
+<link>https://yandex.ru/news/story/Vo_vtoroj_polovine_noyabrya_3_brenda_izmenili_ceny_na_avtomobili--e63f3cb2fce516021f74633cde450ad9?lang=ru&amp;from=rss&amp;stid=0Ooz_gtA3jaDsUAFLsAq</link>
+<guid>https://yandex.ru/news/story/Vo_vtoroj_polovine_noyabrya_3_brenda_izmenili_ceny_na_avtomobili--e63f3cb2fce516021f74633cde450ad9?lang=ru&amp;from=rss&amp;stid=0Ooz_gtA3jaDsUAFLsAq</guid>
+<description>Во второй половине ноября 2019 года цены на автомобили в России изменили 3 автопроизводителя. К такому выводу пришли эксперты «Цена Авто» в ходе мониторинга российского автомобильного рынка. Так, отечественный «АвтоВАЗ» объявил цены на все модели семейства LADA Vesta 2020 модельного года.</description>
+<pubDate>02 Dec 2019 06:38:37 +0000</pubDate>
+</item>
+<item>
+<title>С 1 декабря вступили в силу новые правила для автомобилистов</title>
+<link>https://yandex.ru/news/story/S_1_dekabrya_vstupili_v_silu_novye_pravila_dlya_avtomobilistov--ba91ef4d9cde05d04cd2cf2b8a64560a?lang=ru&amp;from=rss&amp;stid=-xwJ5jiI9GjoiNUwworp</link>
+<guid>https://yandex.ru/news/story/S_1_dekabrya_vstupili_v_silu_novye_pravila_dlya_avtomobilistov--ba91ef4d9cde05d04cd2cf2b8a64560a?lang=ru&amp;from=rss&amp;stid=-xwJ5jiI9GjoiNUwworp</guid>
+<description>С 1 декабря 2019 года в России вступили в силу несколько новых законов. Теперь эксплуатация автомобилей разрешается только с зимними шинами с 1 декабря. Также на весь зимний период запрещается использование автомобильных шин без «липучек» или шипов.</description>
+<pubDate>01 Dec 2019 09:36:20 +0000</pubDate>
+</item>
+<item>
+<title>Skoda рассказала о новинках в России в 2020 году</title>
+<link>https://yandex.ru/news/story/Skoda_rasskazala_o_novinkakh_v_Rossii_v_2020_godu--7ac1fbe68f0d42ec2a308d2f60cb4af2?lang=ru&amp;from=rss&amp;stid=fLKYaQVPG8Mrk4-czIVU</link>
+<guid>https://yandex.ru/news/story/Skoda_rasskazala_o_novinkakh_v_Rossii_v_2020_godu--7ac1fbe68f0d42ec2a308d2f60cb4af2?lang=ru&amp;from=rss&amp;stid=fLKYaQVPG8Mrk4-czIVU</guid>
+<description>В 2020 году чешская компания Skoda представит в России три новинки: кроссовер Karoq, лифтбек Rapid второго поколения и семейство Octavia четвертого поколения. Об этом аналитическому агентству «АвтоСТАТ» рассказали в пресс-службе российского офиса Skoda.</description>
+<pubDate>01 Dec 2019 09:24:12 +0000</pubDate>
+</item>
+<item>
+<title>Названы 5 самых надежных трехлетних кроссоверов в России</title>
+<link>https://yandex.ru/news/story/Nazvany_5_samykh_nadezhnykh_trekhletnikh_krossoverov_v_Rossii--8601cd892a420b41e49c5bf4f03685a7?lang=ru&amp;from=rss&amp;stid=eAvOQO5ZrI86X2Ddj87M</link>
+<guid>https://yandex.ru/news/story/Nazvany_5_samykh_nadezhnykh_trekhletnikh_krossoverov_v_Rossii--8601cd892a420b41e49c5bf4f03685a7?lang=ru&amp;from=rss&amp;stid=eAvOQO5ZrI86X2Ddj87M</guid>
+<description>«Автоновости дня» при поддержке экспертов составили ТОП-5 самых надежных трехлетних кроссоверов на вторичном рынке. Немецкий компактный кроссовер еще с первой генерации зарекомендовал себя как надежный автомобиль. На нашем рынке встречаются версии с бензиновыми и дизельными моторами.</description>
+<pubDate>01 Dec 2019 05:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Компания Chery начала продажи большого кроссовера Jetour X95</title>
+<link>https://yandex.ru/news/story/Kompaniya_Chery_nachala_prodazhi_bolshogo_krossovera_Jetour_X95--9beb677439e761106dbcaa3db4c1a483?lang=ru&amp;from=rss&amp;stid=AD9YEYfpocn_jZ_CRzsF</link>
+<guid>https://yandex.ru/news/story/Kompaniya_Chery_nachala_prodazhi_bolshogo_krossovera_Jetour_X95--9beb677439e761106dbcaa3db4c1a483?lang=ru&amp;from=rss&amp;stid=AD9YEYfpocn_jZ_CRzsF</guid>
+<description>Китайский автопроизводитель объявил о начале продаж вместительного кроссовера Jetour X95. Представители компании отмечают, что новинка на 35 мм длиннее Toyota Land Cruiser Prado, а ее стоимость на 6 тыс. юаней ниже, чем у Toyota Corolla.</description>
+<pubDate>01 Dec 2019 11:40:00 +0000</pubDate>
+</item>
+<item>
+<title>Названы самые угоняемые в Москве автомобили</title>
+<link>https://yandex.ru/news/story/Nazvany_samye_ugonyaemye_v_Moskve_avtomobili--8f03251ed64e3593b476a76cc637c8d6?lang=ru&amp;from=rss&amp;stid=hfPuMcxBZpR7qaZIA4R6</link>
+<guid>https://yandex.ru/news/story/Nazvany_samye_ugonyaemye_v_Moskve_avtomobili--8f03251ed64e3593b476a76cc637c8d6?lang=ru&amp;from=rss&amp;stid=hfPuMcxBZpR7qaZIA4R6</guid>
+<description>По данным прокуратуры Москвы, самыми угоняемыми автомобилями столице в последнее время являются машины азиатских марок.</description>
+<pubDate>01 Dec 2019 11:33:04 +0000</pubDate>
+</item>
+<item>
+<title>Серийное производство кроссовера Genesis GV80 стартует 2 декабря</title>
+<link>https://yandex.ru/news/story/Serijnoe_proizvodstvo_krossovera_Genesis_GV80_startuet_2_dekabrya--1b19bd30599083c8e3c04b38e590a2d0?lang=ru&amp;from=rss&amp;stid=XAuQwDHzORShiJ3L0TG_</link>
+<guid>https://yandex.ru/news/story/Serijnoe_proizvodstvo_krossovera_Genesis_GV80_startuet_2_dekabrya--1b19bd30599083c8e3c04b38e590a2d0?lang=ru&amp;from=rss&amp;stid=XAuQwDHzORShiJ3L0TG_</guid>
+<description>Согласно появившейся в распоряжении издания speedme.ru информации, кроссовер GV80 встанет на конвейер 2 декабря, а поставки клиентам в Южной Корее начнутся в начале следующего года после его дебюта в конце декабря. Известно, что каждый автомобиль будет индивидуализирован по запросам клиентов.</description>
+<pubDate>29 Nov 2019 12:06:19 +0000</pubDate>
+</item>
+<item>
+<title>Эксперты рассказали, как правильно и безопасно продать автомобиль</title>
+<link>https://yandex.ru/news/story/EHksperty_rasskazali_kak_pravilno_i_bezopasno_prodat_avtomobil--0a9baaf153f28b0ad78c80b2da806561?lang=ru&amp;from=rss&amp;stid=M0B532Ql</link>
+<guid>https://yandex.ru/news/story/EHksperty_rasskazali_kak_pravilno_i_bezopasno_prodat_avtomobil--0a9baaf153f28b0ad78c80b2da806561?lang=ru&amp;from=rss&amp;stid=M0B532Ql</guid>
+<description>Продажа автомобиля – целое искусство, от знания которого напрямую зависят скорость, выгодность и безопасность сделки. Как продать машину быстро, грамотно и без проблем, рассказали эксперты «Российской газеты». Первое, что нужно помнить: продажа должна быть обоснованной.</description>
+<pubDate>01 Dec 2019 15:44:03 +0000</pubDate>
+</item>
+</channel>
+</rss>
